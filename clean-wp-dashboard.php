@@ -5,7 +5,7 @@ Plugin URI: http://github.com/sant0sk1/clean-wp-dashboard
 Description: Easily remove any/all of the default WordPress dashboard widgets
 Author: Jerod Santo
 Author URI: http://jerodsanto.net
-Version: 1.0
+Version: 1.01
 */
 
 // disallow direct access to the plugin file
@@ -52,7 +52,7 @@ function clean_wp_dashboard() {
 
 // add options page to wordpress
 function clean_wp_dashboard_menu() {
-  add_options_page('Dashboard Settings','Dashboard Settings',10,__FILE__,'clean_wp_dashboard_options');
+  add_options_page('Dashboard Settings','Dashboard Settings','administrator',__FILE__,'clean_wp_dashboard_options');
 }
 
 // draw options page loaded above
