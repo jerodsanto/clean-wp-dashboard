@@ -4,7 +4,7 @@ Clean WP Dashboard
 Summary
 -------
 
-NOTE: Tested on WordPress 2.7. YMMV.
+NOTE: Tested on WordPress 3.9.1. YMMV.
 
 With this plugin, a WordPress site Administrator can easily remove any/all of the default WordPress dashboard widgets
 

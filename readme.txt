@@ -3,7 +3,7 @@ Contributors: sant0sk1
 Donate link: http://jerodsanto.net
 Tags: default, dashboard, clean, delete, remove
 Requires at least: 2.7
-Tested up to: 2.7.1
+Tested up to: 3.9.1
 Stable tag: trunk
 
 Easily remove any/all of the default WordPress dashboard widgets
